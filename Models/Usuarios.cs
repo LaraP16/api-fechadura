@@ -20,5 +20,11 @@ namespace api_fechadura.Models
         [Column("senha")]
         public string? Senha { get; set;}
 
+        [Column("status")]
+        public string? Status { get; set;}
+
+        [Column("perfil")]
+        public string? Perfil { get; set;}
+
     }
 }
