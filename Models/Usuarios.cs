@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace api_eventos.Models
+namespace api_fechadura.Models
 {
     public class Usuario
     {
