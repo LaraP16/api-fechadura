@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\api-fechadura\\api-fechadura.csproj",
+      "projectUniqueName": "C:\\projetos\\Projeto-Fechadura\\API\\api-fechadura\\api-fechadura.csproj",
       "projectName": "api-fechadura",
-      "projectPath": "C:\\projetos\\api-fechadura\\api-fechadura.csproj",
+      "projectPath": "C:\\projetos\\Projeto-Fechadura\\API\\api-fechadura\\api-fechadura.csproj",
       "packagesPath": "C:\\Users\\Lara.Puga\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\api-fechadura\\obj\\",
+      "outputPath": "C:\\projetos\\Projeto-Fechadura\\API\\api-fechadura\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lara.Puga\\AppData\\Roaming\\NuGet\\NuGet.Config"

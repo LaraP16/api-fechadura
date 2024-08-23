@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2g+vX/lgf+gyCKYxFwz9GNC+RynisSpOO/9uw2ZflQD0KYr32lYEwDibJ1SXNikF0x0QTPufKdP0am/JcVXTEw==",
+  "dgSpecHash": "x+9p0+Grd6VtR9PHUDbZWJVLlHsV8Dc5T+lG+gF+tef8J7GzBC2OxWo07/Da2i1XPR5xt4hmlyq0XWX3Ra+XZw==",
   "success": true,
-  "projectFilePath": "C:\\projetos\\api-fechadura\\api-fechadura.csproj",
+  "projectFilePath": "C:\\projetos\\Projeto-Fechadura\\API\\api-fechadura\\api-fechadura.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lara.Puga\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.2\\microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",
     "C:\\Users\\Lara.Puga\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
