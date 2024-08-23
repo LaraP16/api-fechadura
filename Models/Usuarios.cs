@@ -11,11 +11,11 @@ namespace api_fechadura.Models
         [Column("idusuario")]
         public int IdUsuario { get; set; }
 
-        [Column("nome_completo")]
-        public string? NomeCompleto { get; set;}
+        [Column("nome")]
+        public string? Nome { get; set;}
 
         [Column("nif")]
-        public string? Email { get; set; }
+        public int? Nif { get; set; }
 
         [Column("senha")]
         public string? Senha { get; set;}
