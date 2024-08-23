@@ -14,9 +14,6 @@ namespace api_fechadura.Models
         [Column("nome")]
         public string? Nome { get; set;}
 
-        [Column("status")]
-        public string? Status { get; set; }
-
         [Column("horario")]
         public string? Horario { get; set;}
 

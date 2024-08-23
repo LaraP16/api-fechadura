@@ -12,6 +12,8 @@ namespace api_fechadura.Models
         public int Idsala { get; set; }
 
         [Column("sala")]
+        public string? Nome_Usuario { get; set;}
+        [Column("sala")]
         public string? Nome { get; set;}
 
         [Column("status")]
