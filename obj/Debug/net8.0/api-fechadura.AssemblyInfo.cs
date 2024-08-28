@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("api-fechadura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be1158a693e454b26fad406a24d0798536306ab7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d085d4e85efdaaec965b30e302f69e34d99db861")]
 [assembly: System.Reflection.AssemblyProductAttribute("api-fechadura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("api-fechadura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

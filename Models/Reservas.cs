@@ -9,18 +9,14 @@ namespace api_fechadura.Models
     public class Reserva
     {
         [Column("idreserva")]
-        public int Idsala { get; set; }
+        public int IdReserva { get; set; }
 
         [Column("sala")]
-        public string? Nome_Usuario { get; set;}
-        [Column("sala")]
-        public string? Nome { get; set;}
+        public int? IdSala { get; set;}
 
-        [Column("status")]
-        public string? Status { get; set; }
+        [Column("idusuario")]
+        public int? IdUsuario { get; set;}
 
-        [Column("horario")]
-        public string? Horario { get; set;}
 
     }
 }
