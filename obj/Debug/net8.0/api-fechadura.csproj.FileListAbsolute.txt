@@ -1,0 +1,8 @@
+C:\Projetos\api-fechadura\obj\Debug\net8.0\api-fechadura.csproj.AssemblyReference.cache
+C:\Projetos\api-fechadura\obj\Debug\net8.0\api-fechadura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\api-fechadura\obj\Debug\net8.0\api-fechadura.AssemblyInfoInputs.cache
+C:\Projetos\api-fechadura\obj\Debug\net8.0\api-fechadura.AssemblyInfo.cs
+C:\Projetos\api-fechadura\obj\Debug\net8.0\api-fechadura.csproj.CoreCompileInputs.cache
+C:\Projetos\api-fechadura\obj\Debug\net8.0\api-fechadura.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\api-fechadura\obj\Debug\net8.0\api-fechadura.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\api-fechadura\obj\Debug\net8.0\api-fechadura.sourcelink.json

@@ -10,7 +10,7 @@ namespace api_fechadura.Repository
     {
          public static MySqlConnection GetConnection()
         {
-            string connectionString = "Server=localhost;Database=mybd-Fechadura;Uid=root;Pwd=Lara@1603;";
+            string connectionString = "Server=localhost;Database=mybd-Fechadura;Uid=root;Pwd=@#Npm030315;";
             MySqlConnection connection = new MySqlConnection(connectionString);
             return connection;
         }
