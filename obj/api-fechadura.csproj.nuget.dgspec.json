@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\api-fechadura\\api-fechadura.csproj": {}
+    "C:\\projetos\\Projeto-Fechadura\\API\\api-fechadura\\api-fechadura.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\api-fechadura\\api-fechadura.csproj": {
+    "C:\\projetos\\Projeto-Fechadura\\API\\api-fechadura\\api-fechadura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\api-fechadura\\api-fechadura.csproj",
+        "projectUniqueName": "C:\\projetos\\Projeto-Fechadura\\API\\api-fechadura\\api-fechadura.csproj",
         "projectName": "api-fechadura",
-        "projectPath": "C:\\Projetos\\api-fechadura\\api-fechadura.csproj",
-        "packagesPath": "C:\\Users\\Nayara.Paulino\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\api-fechadura\\obj\\",
+        "projectPath": "C:\\projetos\\Projeto-Fechadura\\API\\api-fechadura\\api-fechadura.csproj",
+        "packagesPath": "C:\\Users\\Lara.Puga\\.nuget\\packages\\",
+        "outputPath": "C:\\projetos\\Projeto-Fechadura\\API\\api-fechadura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Nayara.Paulino\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Lara.Puga\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
