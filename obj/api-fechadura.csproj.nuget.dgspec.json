@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projetos\\Projeto-Fechadura\\API\\api-fechadura\\api-fechadura.csproj": {}
+    "C:\\Projetos\\api-fechadura\\api-fechadura.csproj": {}
   },
   "projects": {
-    "C:\\projetos\\Projeto-Fechadura\\API\\api-fechadura\\api-fechadura.csproj": {
+    "C:\\Projetos\\api-fechadura\\api-fechadura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\Projeto-Fechadura\\API\\api-fechadura\\api-fechadura.csproj",
+        "projectUniqueName": "C:\\Projetos\\api-fechadura\\api-fechadura.csproj",
         "projectName": "api-fechadura",
-        "projectPath": "C:\\projetos\\Projeto-Fechadura\\API\\api-fechadura\\api-fechadura.csproj",
-        "packagesPath": "C:\\Users\\Lara.Puga\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\Projeto-Fechadura\\API\\api-fechadura\\obj\\",
+        "projectPath": "C:\\Projetos\\api-fechadura\\api-fechadura.csproj",
+        "packagesPath": "C:\\Users\\julia.almeida\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\api-fechadura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lara.Puga\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\julia.almeida\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
